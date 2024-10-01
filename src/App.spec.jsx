@@ -5,7 +5,7 @@ describe('Jest', () => {
   it('should work', () => {
     expect(1).toBe(1)
   })
-  it('should display elements', () => {
+  it('should displai elements', () => {
     render(<App />)
 
     expect(
